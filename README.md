@@ -9,6 +9,13 @@ Hall, 2020. [ISBN: 0136520235]
 Kishori Sharan, Adam L. Davis. Beginning Java 17 Fundamentals: Object-Oriented Programming in Java 17. 3rd Edition. 
 Apress, 2021. [ISBN-10: 1484273060; ISBN-13:978-1484273067]
 
+Question 1 or 2
+
+![image](https://user-images.githubusercontent.com/58724748/217137929-a5a6a1a2-7e45-4388-981d-3816dc1997f5.png)
+![image](https://user-images.githubusercontent.com/58724748/217137999-de74edd0-29e0-45d4-9fc3-583c5a7e1f8a.png)
+
+__________________________________________________________________________________________________________________
+
 
 ![image](https://user-images.githubusercontent.com/58724748/217118832-34e6de4a-2031-469f-b5ab-ffecc4d3c653.png)
 
