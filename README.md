@@ -1,5 +1,22 @@
 # Java_OOP_OneToOne_OneToMany_FinalRevision
 
+Abstact Class
+
+Main references supporting the course
+Y. Daniel Liang. Introduction to Java Programming and Data Structures. 12th Edition. Upper Saddle River: Pearson Prentice 
+Hall, 2020. [ISBN: 0136520235]
+
+Kishori Sharan, Adam L. Davis. Beginning Java 17 Fundamentals: Object-Oriented Programming in Java 17. 3rd Edition. 
+Apress, 2021. [ISBN-10: 1484273060; ISBN-13:978-1484273067]
+
+
+![image](https://user-images.githubusercontent.com/58724748/217118832-34e6de4a-2031-469f-b5ab-ffecc4d3c653.png)
+
+![image](https://user-images.githubusercontent.com/58724748/217120443-701b3ea5-23cc-4a26-bb81-60daaa668599.png)
+![image](https://user-images.githubusercontent.com/58724748/217120493-3d7b2f47-99bc-49dc-ae3a-72d8d2125e90.png)
+![image](https://user-images.githubusercontent.com/58724748/217120502-945e69d7-0532-4e79-87ec-abe330183d3a.png)
+
+
 Q3 Draw UML Diagram
 
 ![image](https://user-images.githubusercontent.com/58724748/217116376-12454098-a61b-4f59-aacc-b4cb5ac774ed.png)
